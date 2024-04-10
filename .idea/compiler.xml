@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="variables" />
         <module name="conditionals" />
+        <module name="reCapDemo1" />
         <module name="javaHelloWorld" />
         <module name="datatypes" />
       </profile>
