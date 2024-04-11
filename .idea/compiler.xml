@@ -17,6 +17,7 @@
         <module name="stringsDemo" />
         <module name="conditionals" />
         <module name="datatypes" />
+        <module name="stringsDemo2" />
       </profile>
     </annotationProcessing>
   </component>
