@@ -27,6 +27,10 @@ public class Product
     private String _renk;
     private String _kod;
 
+    public Product() {
+
+    }
+
     public String get_renk() {
         return _renk;
     }

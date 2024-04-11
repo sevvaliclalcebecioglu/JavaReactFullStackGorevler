@@ -1,10 +1,16 @@
 package org.example;
 public class Main {
     public static void main(String[] args) {
-        System.out.printf("Hello and welcome!");
+         Product product = new Product();
+         product.set_name("Laptop");
+         product.set_id(1);
 
-        for (int i = 1; i <= 5; i++) {
-            System.out.println("i = " + i);
+         ProductManeger productManeger = new ProductManeger();
+         productManeger.Add(product);
+
+         System.out.println(product.get_kod());
+
+
+
         }
     }
-}

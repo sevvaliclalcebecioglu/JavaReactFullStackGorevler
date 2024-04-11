@@ -1,10 +1,10 @@
 package org.example;
 public class Main {
     public static void main(String[] args) {
-        System.out.printf("Hello and welcome!");
+        DörtIslem dörtIslem = new DörtIslem();
+        System.out.println(dörtIslem.topla(2,3));
+        dörtIslem.topla(2,3,5);
 
-        for (int i = 1; i <= 5; i++) {
-            System.out.println("i = " + i);
-        }
+
     }
 }

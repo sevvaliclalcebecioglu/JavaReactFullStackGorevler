@@ -10,6 +10,7 @@
         <module name="arkadasSayilar" />
         <module name="interfaceDemo" />
         <module name="methods" />
+        <module name="classes" />
         <module name="inheritance" />
         <module name="datatypes" />
         <module name="stringsDemo2" />
