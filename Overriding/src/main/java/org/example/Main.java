@@ -1,10 +1,11 @@
 package org.example;
 public class Main {
     public static void main(String[] args) {
-        System.out.printf("Hello and welcome!");
+        BaseKrediManager[] krediManagers = new BaseKrediManager[]
+                {new ÖğretmenKrediManager(), new TarımKrediManager(), new ÖğrenciKrediManager()};
 
-        for (int i = 1; i <= 5; i++) {
-            System.out.println("i = " + i);
+        for (BaseKrediManager krediManager : krediManagers){
+            System.out.println(krediManager.hesapla(1000));
         }
     }
 }
