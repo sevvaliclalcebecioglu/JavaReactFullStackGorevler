@@ -9,6 +9,7 @@
         <module name="loopDemo" />
         <module name="variables" />
         <module name="switchDemo" />
+        <module name="arraysDemo" />
         <module name="reCapDemo1" />
         <module name="javaHelloWorld" />
         <module name="conditionals" />
