@@ -1,5 +1,3 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
         sayiBulmaca();                          //burada da aşağıda oluşturduğum metodumu çağırdım. eğer çağırmazsak methodumu göremem. çünkü java da önce main metodu çalışır. istediğim kadar çağırabilirim.
