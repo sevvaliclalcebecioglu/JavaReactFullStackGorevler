@@ -13,6 +13,7 @@
         <module name="inheritance" />
         <module name="datatypes" />
         <module name="stringsDemo2" />
+        <module name="staticDemo" />
         <module name="methods2" />
         <module name="javaHelloWorld" />
         <module name="reCapDemo_Classes" />
