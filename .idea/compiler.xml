@@ -38,8 +38,10 @@
         <module name="reCapDemo2" />
         <module name="stringsDemo" />
         <module name="conditionals" />
-        <module name="interfaceAbstractDemo" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="interfaceAbstractDemo" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
