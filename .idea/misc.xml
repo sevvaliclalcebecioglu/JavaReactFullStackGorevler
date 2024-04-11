@@ -16,6 +16,25 @@
         <option value="$PROJECT_DIR$/multiDimensionalArrayDemo/pom.xml" />
         <option value="$PROJECT_DIR$/stringsDemo/pom.xml" />
         <option value="$PROJECT_DIR$/stringsDemo2/pom.xml" />
+        <option value="$PROJECT_DIR$/arkadasSayilar/pom.xml" />
+        <option value="$PROJECT_DIR$/AbstractClasses/pom.xml" />
+        <option value="$PROJECT_DIR$/AbstractDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/classesWithAttributes/pom.xml" />
+        <option value="$PROJECT_DIR$/inheritance/pom.xml" />
+        <option value="$PROJECT_DIR$/inheritanceDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/InterfaceDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/Interfaces/pom.xml" />
+        <option value="$PROJECT_DIR$/methodOverLoading/pom.xml" />
+        <option value="$PROJECT_DIR$/methods/pom.xml" />
+        <option value="$PROJECT_DIR$/methods2/pom.xml" />
+        <option value="$PROJECT_DIR$/miniProjeAsalSayi/pom.xml" />
+        <option value="$PROJECT_DIR$/mukemmelSayi/pom.xml" />
+        <option value="$PROJECT_DIR$/Overriding/pom.xml" />
+        <option value="$PROJECT_DIR$/PolimorfizmDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/reCapDemo_Classes/pom.xml" />
+        <option value="$PROJECT_DIR$/sayiBulma/pom.xml" />
+        <option value="$PROJECT_DIR$/sesliHarfler/pom.xml" />
+        <option value="$PROJECT_DIR$/staticDemo/pom.xml" />
       </list>
     </option>
   </component>
