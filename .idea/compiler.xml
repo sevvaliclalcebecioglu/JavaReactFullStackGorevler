@@ -12,6 +12,7 @@
         <module name="arraysDemo" />
         <module name="reCapDemo1" />
         <module name="javaHelloWorld" />
+        <module name="reCapDemo2" />
         <module name="conditionals" />
         <module name="datatypes" />
       </profile>
